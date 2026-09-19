@@ -1,0 +1,33 @@
+body {
+  table {
+    background-color: #99ccff;
+    width: 650px;
+    padding: 0px 25px 0px;
+  }
+  input[type="radio"] {
+    accent-color: #008000;
+  }
+  hr {
+    border: none;
+    border-top: 1.5px solid #000000;
+    margin: 15px auto;
+    width: 100%;
+  }
+  #hr1 {
+    border: none;
+    border-top: 3px solid #000000;
+    margin: 0px auto;
+    width: 100%;
+  }
+  .logo-box {
+    width: 320px;
+    background-color: #00ffff;
+    border: 2px solid #000000;
+    border-radius: 12px;
+    box-shadow: 8px 8px 0px #6080a0;
+    font-family: "Times New Roman", serif;
+    font-weight: bold;
+    font-size: 34px;
+    text-align: center;
+  }
+}
