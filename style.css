@@ -89,26 +89,30 @@
     gap: 25px;
 }
 .first-content-red-title{
-    /* color:#F64B4B; */
-    /* font-family: "Gilroy-Bold"; */
-    /* font-size: 13px; */
-    /* letter-spacing: 1.63px; */
+    color:#F64B4B;
+    font-family: "Gilroy-Bold";
+    font-size: 13px;
+    letter-spacing: 1.63px;
     text-transform: uppercase;
-    /* width: 206px; */
-    /* height: 16px; */
-    /* padding-left:4px; */
+    width: 206px;
+    height: 16px;
+    left: 4px;
+    position: relative;
 }
 .first-content-title{
     font-family: "Gilroy-Bold";
     font-size: 60px;
     line-height: 65px;
     letter-spacing: -2px;
+    height: 130px;
 }
 .first-content{
     font-family: "Gilroy-Regular";
     font-size: 19px;
     line-height: 32px;
     letter-spacing: -0.2px;
+    width: 500px;
+    padding-bottom: 10px;
 }
 .btn-first{
     width: 220px;
